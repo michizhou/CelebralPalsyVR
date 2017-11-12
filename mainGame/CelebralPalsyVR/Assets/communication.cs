@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 using System.IO.Ports;
+using UnityEngine.VR;
 
 public class communication : MonoBehaviour
 {
@@ -54,7 +55,13 @@ public class communication : MonoBehaviour
                 // walking
                 print("Walking");
                 walking = true;
-                transform.position += transform.forward *4;
+
+                /*
+                print(InputTracking.GetLocalRotation(VRNode.CenterEye));
+                print("X: " + angles.eulerAngles.x + "  Y: " + angles.eulerAngles.y + "  Z: " + angles.eulerAngles.z);
+                */
+
+                transform.position += transform.forward *1;
                 /*
                 print(XVal);
                 print(YVal);
