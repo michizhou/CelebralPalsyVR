@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/michaelzhou/AndroidStudioProjects/CPBalancer/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="85816e39ad533881f70de949ecd5cf4dbe3fcf98">
+        <dex dex="/Users/michaelzhou/AndroidStudioProjects/CPBalancer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_35ad89317af610070410f30119bec2aa503bb584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelzhou/AndroidStudioProjects/CPBalancer/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/michaelzhou/AndroidStudioProjects/CPBalancer/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3a197f0f2d090e0e9a530dbac9ab1a7b0def15aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelzhou/AndroidStudioProjects/BeatPinReader/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3d237861a83cff0adf3ab4bdf9af737f4e9acfd2">
+        <dex dex="/Users/michaelzhou/AndroidStudioProjects/BeatPinReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_7eba345d091bc6bbb46b5385b0b7e42d3baa5d14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/michaelzhou/AndroidStudioProjects/BeatPinReader/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/michaelzhou/AndroidStudioProjects/BeatPinReader/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5bc15f3c5dfe2cfa73a90847c5765f0f85784d5c/classes.dex" />
+    </item>
+
+</items>

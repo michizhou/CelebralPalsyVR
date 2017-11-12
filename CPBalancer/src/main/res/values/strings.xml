@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cerebral Palsy Balancer</string>
+    <string name="status">Status</string>
+    <string name="coords">X-Skew: \nY-Skew: \nZ-Skew: </string>
+    <string name="gyroscope_statistics">Gyroscope Statistics</string>
+    <string name="start">Start</string>
+</resources>
