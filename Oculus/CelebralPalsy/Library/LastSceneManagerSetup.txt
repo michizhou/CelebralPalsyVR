@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/VR.unity
+- path: C:/Users/MLH-Admin/Documents/Programming/CelebralPalsyVR/mainGame/CelebralPalsyVR/Assets/VR.unity
   isLoaded: 1
   isActive: 1
