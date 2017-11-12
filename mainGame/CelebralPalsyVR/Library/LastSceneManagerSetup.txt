@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/MLH-Admin/Documents/Programming/CelebralPalsyVR/animation/animationUnity/Assets/VRModels.unity
+  isLoaded: 1
+  isActive: 1

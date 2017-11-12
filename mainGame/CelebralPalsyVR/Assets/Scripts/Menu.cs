@@ -28,7 +28,7 @@ public class Menu : MonoBehaviour {
 
 	public void LoadOn()
 	{
-		Application.LoadLevel("Maze");
+		Application.LoadLevel("VRModels");
 	}
 
 }
