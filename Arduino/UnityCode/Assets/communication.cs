@@ -41,7 +41,7 @@ public class communication : MonoBehaviour
             int fluctRange = 7;
             bool walking = false;
 
-            // 
+    
             if ((lowerLimit - fluctRange <= XVal && XVal <= upperLimit + fluctRange) &&
                  (lowerLimit - fluctRange <= YVal && YVal <= upperLimit + fluctRange) &&
                  (lowerLimit - fluctRange <= ZVal && ZVal <= upperLimit + fluctRange))
@@ -51,6 +51,7 @@ public class communication : MonoBehaviour
                 walking = false;
             }
             else {
+                // walking
                 print("Walking");
                 walking = true;
 
